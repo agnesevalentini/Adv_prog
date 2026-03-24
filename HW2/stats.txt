@@ -1,0 +1,179 @@
+Statistical analysis for the CSV file
+--------------------
+Frequency analysis of the Gender column
+Female: 235
+Male: 266
+----------------------
+Statistical analysis of the 28 column 
+Mean: 26.2375
+Median: 26
+Variance: 23.9695
+Standard Deviation: 4.89587
+
+Histogram of numerical variables (bins and frequencies):
+Bin 0: Range [18, 18.7318] - Count: 24
+Bin 1: Range [18.7318, 19.4636] - Count: 26
+Bin 2: Range [19.4636, 20.1955] - Count: 37
+Bin 3: Range [20.1955, 20.9273] - Count: 0
+Bin 4: Range [20.9273, 21.6591] - Count: 29
+Bin 5: Range [21.6591, 22.3909] - Count: 23
+Bin 6: Range [22.3909, 23.1227] - Count: 24
+Bin 7: Range [23.1227, 23.8545] - Count: 0
+Bin 8: Range [23.8545, 24.5864] - Count: 37
+Bin 9: Range [24.5864, 25.3182] - Count: 29
+Bin 10: Range [25.3182, 26.05] - Count: 22
+Bin 11: Range [26.05, 26.7818] - Count: 0
+Bin 12: Range [26.7818, 27.5136] - Count: 26
+Bin 13: Range [27.5136, 28.2455] - Count: 38
+Bin 14: Range [28.2455, 28.9773] - Count: 0
+Bin 15: Range [28.9773, 29.7091] - Count: 36
+Bin 16: Range [29.7091, 30.4409] - Count: 28
+Bin 17: Range [30.4409, 31.1727] - Count: 27
+Bin 18: Range [31.1727, 31.9045] - Count: 0
+Bin 19: Range [31.9045, 32.6364] - Count: 27
+Bin 20: Range [32.6364, 33.3682] - Count: 36
+Bin 21: Range [33.3682, 34.1] - Count: 32
+-----------------------
+Statistical analysis of the 2 column 
+Mean: 3.00599
+Median: 3
+Variance: 1.9301
+Standard Deviation: 1.38928
+
+Histogram of numerical variables (bins and frequencies):
+Bin 0: Range [1, 1.18636] - Count: 99
+Bin 1: Range [1.18636, 1.37273] - Count: 0
+Bin 2: Range [1.37273, 1.55909] - Count: 0
+Bin 3: Range [1.55909, 1.74545] - Count: 0
+Bin 4: Range [1.74545, 1.93182] - Count: 0
+Bin 5: Range [1.93182, 2.11818] - Count: 87
+Bin 6: Range [2.11818, 2.30455] - Count: 0
+Bin 7: Range [2.30455, 2.49091] - Count: 0
+Bin 8: Range [2.49091, 2.67727] - Count: 0
+Bin 9: Range [2.67727, 2.86364] - Count: 0
+Bin 10: Range [2.86364, 3.05] - Count: 125
+Bin 11: Range [3.05, 3.23636] - Count: 0
+Bin 12: Range [3.23636, 3.42273] - Count: 0
+Bin 13: Range [3.42273, 3.60909] - Count: 0
+Bin 14: Range [3.60909, 3.79545] - Count: 0
+Bin 15: Range [3.79545, 3.98182] - Count: 0
+Bin 16: Range [3.98182, 4.16818] - Count: 92
+Bin 17: Range [4.16818, 4.35455] - Count: 0
+Bin 18: Range [4.35455, 4.54091] - Count: 0
+Bin 19: Range [4.54091, 4.72727] - Count: 0
+Bin 20: Range [4.72727, 4.91364] - Count: 0
+Bin 21: Range [4.91364, 5.1] - Count: 98
+-----------------------
+Statistical analysis of the 4 column 
+Mean: 3.07385
+Median: 3
+Variance: 1.88477
+Standard Deviation: 1.37287
+
+Histogram of numerical variables (bins and frequencies):
+Bin 0: Range [1, 1.18636] - Count: 86
+Bin 1: Range [1.18636, 1.37273] - Count: 0
+Bin 2: Range [1.37273, 1.55909] - Count: 0
+Bin 3: Range [1.55909, 1.74545] - Count: 0
+Bin 4: Range [1.74545, 1.93182] - Count: 0
+Bin 5: Range [1.93182, 2.11818] - Count: 100
+Bin 6: Range [2.11818, 2.30455] - Count: 0
+Bin 7: Range [2.30455, 2.49091] - Count: 0
+Bin 8: Range [2.49091, 2.67727] - Count: 0
+Bin 9: Range [2.67727, 2.86364] - Count: 0
+Bin 10: Range [2.86364, 3.05] - Count: 103
+Bin 11: Range [3.05, 3.23636] - Count: 0
+Bin 12: Range [3.23636, 3.42273] - Count: 0
+Bin 13: Range [3.42273, 3.60909] - Count: 0
+Bin 14: Range [3.60909, 3.79545] - Count: 0
+Bin 15: Range [3.79545, 3.98182] - Count: 0
+Bin 16: Range [3.98182, 4.16818] - Count: 115
+Bin 17: Range [4.16818, 4.35455] - Count: 0
+Bin 18: Range [4.35455, 4.54091] - Count: 0
+Bin 19: Range [4.54091, 4.72727] - Count: 0
+Bin 20: Range [4.72727, 4.91364] - Count: 0
+Bin 21: Range [4.91364, 5.1] - Count: 97
+-----------------------
+Frequency analysis of the Sleep Duration column
+7-8 hours: 127
+Less than 5 hours: 123
+More than 8 hours: 128
+5-6 hours: 123
+----------------------
+Frequency analysis of the Dietary Habits column
+Moderate: 171
+Unhealthy: 169
+Healthy: 161
+----------------------
+Frequency analysis of the Have you ever had suicidal thoughts ? column
+No: 242
+Yes: 259
+----------------------
+Statistical analysis of the 9 column 
+Mean: 6.3992
+Median: 7
+Variance: 13.9923
+Standard Deviation: 3.74063
+
+Histogram of numerical variables (bins and frequencies):
+Bin 0: Range [0, 0.55] - Count: 34
+Bin 1: Range [0.55, 1.1] - Count: 29
+Bin 2: Range [1.1, 1.65] - Count: 0
+Bin 3: Range [1.65, 2.2] - Count: 37
+Bin 4: Range [2.2, 2.75] - Count: 0
+Bin 5: Range [2.75, 3.3] - Count: 37
+Bin 6: Range [3.3, 3.85] - Count: 0
+Bin 7: Range [3.85, 4.4] - Count: 38
+Bin 8: Range [4.4, 4.95] - Count: 0
+Bin 9: Range [4.95, 5.5] - Count: 31
+Bin 10: Range [5.5, 6.05] - Count: 42
+Bin 11: Range [6.05, 6.6] - Count: 0
+Bin 12: Range [6.6, 7.15] - Count: 36
+Bin 13: Range [7.15, 7.7] - Count: 0
+Bin 14: Range [7.7, 8.25] - Count: 45
+Bin 15: Range [8.25, 8.8] - Count: 0
+Bin 16: Range [8.8, 9.35] - Count: 32
+Bin 17: Range [9.35, 9.9] - Count: 0
+Bin 18: Range [9.9, 10.45] - Count: 53
+Bin 19: Range [10.45, 11] - Count: 0
+Bin 20: Range [11, 11.55] - Count: 41
+Bin 21: Range [11.55, 12.1] - Count: 46
+-----------------------
+Statistical analysis of the 2 column 
+Mean: 2.93014
+Median: 3
+Variance: 2.02905
+Standard Deviation: 1.42445
+
+Histogram of numerical variables (bins and frequencies):
+Bin 0: Range [1, 1.18636] - Count: 110
+Bin 1: Range [1.18636, 1.37273] - Count: 0
+Bin 2: Range [1.37273, 1.55909] - Count: 0
+Bin 3: Range [1.55909, 1.74545] - Count: 0
+Bin 4: Range [1.74545, 1.93182] - Count: 0
+Bin 5: Range [1.93182, 2.11818] - Count: 101
+Bin 6: Range [2.11818, 2.30455] - Count: 0
+Bin 7: Range [2.30455, 2.49091] - Count: 0
+Bin 8: Range [2.49091, 2.67727] - Count: 0
+Bin 9: Range [2.67727, 2.86364] - Count: 0
+Bin 10: Range [2.86364, 3.05] - Count: 100
+Bin 11: Range [3.05, 3.23636] - Count: 0
+Bin 12: Range [3.23636, 3.42273] - Count: 0
+Bin 13: Range [3.42273, 3.60909] - Count: 0
+Bin 14: Range [3.60909, 3.79545] - Count: 0
+Bin 15: Range [3.79545, 3.98182] - Count: 0
+Bin 16: Range [3.98182, 4.16818] - Count: 94
+Bin 17: Range [4.16818, 4.35455] - Count: 0
+Bin 18: Range [4.35455, 4.54091] - Count: 0
+Bin 19: Range [4.54091, 4.72727] - Count: 0
+Bin 20: Range [4.72727, 4.91364] - Count: 0
+Bin 21: Range [4.91364, 5.1] - Count: 96
+-----------------------
+Frequency analysis of the Family History of Mental Illness column
+No: 265
+Yes: 236
+----------------------
+Frequency analysis of the Depression column
+Yes: 252
+No: 249
+----------------------

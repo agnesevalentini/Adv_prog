@@ -1,0 +1,8 @@
+/home/agnese/magistrale/Advanced_programming/Adv_prog/HW2/CMakeFiles/StatisticsLib.dir
+/home/agnese/magistrale/Advanced_programming/Adv_prog/HW2/CMakeFiles/statistics_module.dir
+/home/agnese/magistrale/Advanced_programming/Adv_prog/HW2/CMakeFiles/edit_cache.dir
+/home/agnese/magistrale/Advanced_programming/Adv_prog/HW2/CMakeFiles/rebuild_cache.dir
+/home/agnese/magistrale/Advanced_programming/Adv_prog/HW2/CMakeFiles/list_install_components.dir
+/home/agnese/magistrale/Advanced_programming/Adv_prog/HW2/CMakeFiles/install.dir
+/home/agnese/magistrale/Advanced_programming/Adv_prog/HW2/CMakeFiles/install/local.dir
+/home/agnese/magistrale/Advanced_programming/Adv_prog/HW2/CMakeFiles/install/strip.dir

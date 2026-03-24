@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCSVStatisticsLib.a CMakeFiles/CSVStatisticsLib.dir/statistics_module.cpp.o CMakeFiles/CSVStatisticsLib.dir/stat_bindings.cpp.o
+/usr/bin/ranlib libCSVStatisticsLib.a

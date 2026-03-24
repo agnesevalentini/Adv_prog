@@ -1,0 +1,2 @@
+/usr/bin/ar qc libStatisticsLib.a CMakeFiles/StatisticsLib.dir/statistics_module.cpp.o CMakeFiles/StatisticsLib.dir/stat_bindings.cpp.o
+/usr/bin/ranlib libStatisticsLib.a
